@@ -93,6 +93,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _nod
 
 eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// load the styles\nvar content = __webpack_require__(/*! !!../../../node_modules/css-loader/dist/cjs.js??clonedRuleSet-22[0].rules[0].use[1]!../../../node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22[0].rules[0].use[2]!../../../node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22[0].rules[0].use[3]!../../../node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./index.vue?vue&type=style&index=0&id=8aed8ac4&lang=scss&scoped=true& */ \"./node_modules/css-loader/dist/cjs.js??clonedRuleSet-22[0].rules[0].use[1]!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22[0].rules[0].use[2]!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22[0].rules[0].use[3]!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options!./src/components/Logo/index.vue?vue&type=style&index=0&id=8aed8ac4&lang=scss&scoped=true&\");\nif(content.__esModule) content = content.default;\nif(typeof content === 'string') content = [[module.id, content, '']];\nif(content.locals) module.exports = content.locals;\n// add the styles to the DOM\nvar add = (__webpack_require__(/*! !../../../node_modules/vue-style-loader/lib/addStylesClient.js */ \"./node_modules/vue-style-loader/lib/addStylesClient.js\")[\"default\"])\nvar update = add(\"45dd0bbd\", content, false, {\"sourceMap\":false,\"shadowMode\":false});\n// Hot Module Replacement\nif(false) {}\n\n//# sourceURL=webpack://home_research_h5/./src/components/Logo/index.vue?./node_modules/vue-style-loader/index.js??clonedRuleSet-22%5B0%5D.rules%5B0%5D.use%5B0%5D!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-22%5B0%5D.rules%5B0%5D.use%5B1%5D!./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-22%5B0%5D.rules%5B0%5D.use%5B2%5D!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-22%5B0%5D.rules%5B0%5D.use%5B3%5D!./node_modules/@vue/vue-loader-v15/lib/index.js??vue-loader-options");
 
+/***/ }),
+
+/***/ "./src/assets/images/logo.png":
+/*!************************************!*\
+  !*** ./src/assets/images/logo.png ***!
+  \************************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"img/logo.4d555056.png\";\n\n//# sourceURL=webpack://home_research_h5/./src/assets/images/logo.png?");
+
 /***/ })
 
 }]);
