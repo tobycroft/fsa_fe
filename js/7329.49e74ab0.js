@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkhome_research_h5"]=self["webpackChunkhome_research_h5"]||[]).push([[7329],{77329:function(e,r,t){t.r(r),t.d(r,{default:function(){return f}});var n=function(){var e=this,r=e.$createElement,t=e._self._c||r;return t("div",{staticClass:"card-form-container flex"},[e._t("default")],2)},a=[],c={},s=c,u=t(1001),l=(0,u.Z)(s,n,a,!1,null,"d0d00da2",null),f=l.exports}}]);
-//# sourceMappingURL=7329.49e74ab0.js.map
