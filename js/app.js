@@ -218,6 +218,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/**\n * 登录模块接口\n 
 
 /***/ }),
 
+/***/ "./src/api/rate.js":
+/*!*************************!*\
+  !*** ./src/api/rate.js ***!
+  \*************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/**\r\n * 评价模块API\r\n */\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  // 查看他人的评价\n  rateIndexList: `${\"http://tp.tuuz.ltd:1180\"}${\"/v1\"}/rate/index/list`\n});\n\n//# sourceURL=webpack://home_research_h5/./src/api/rate.js?");
+
+/***/ }),
+
 /***/ "./src/api/tag.js":
 /*!************************!*\
   !*** ./src/api/tag.js ***!
@@ -486,7 +497,7 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
   \****************************/
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-eval("var map = {\n\t\"./aoss.js\": \"./src/api/aoss.js\",\n\t\"./association.js\": \"./src/api/association.js\",\n\t\"./common.js\": \"./src/api/common.js\",\n\t\"./gift.js\": \"./src/api/gift.js\",\n\t\"./host.js\": \"./src/api/host.js\",\n\t\"./index.js\": \"./src/api/index.js\",\n\t\"./instructor.js\": \"./src/api/instructor.js\",\n\t\"./lecture.js\": \"./src/api/lecture.js\",\n\t\"./login.js\": \"./src/api/login.js\",\n\t\"./tag.js\": \"./src/api/tag.js\",\n\t\"./user.js\": \"./src/api/user.js\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/api sync recursive \\\\.js\";\n\n//# sourceURL=webpack://home_research_h5/./src/api/_sync_\\.js?");
+eval("var map = {\n\t\"./aoss.js\": \"./src/api/aoss.js\",\n\t\"./association.js\": \"./src/api/association.js\",\n\t\"./common.js\": \"./src/api/common.js\",\n\t\"./gift.js\": \"./src/api/gift.js\",\n\t\"./host.js\": \"./src/api/host.js\",\n\t\"./index.js\": \"./src/api/index.js\",\n\t\"./instructor.js\": \"./src/api/instructor.js\",\n\t\"./lecture.js\": \"./src/api/lecture.js\",\n\t\"./login.js\": \"./src/api/login.js\",\n\t\"./rate.js\": \"./src/api/rate.js\",\n\t\"./tag.js\": \"./src/api/tag.js\",\n\t\"./user.js\": \"./src/api/user.js\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/api sync recursive \\\\.js\";\n\n//# sourceURL=webpack://home_research_h5/./src/api/_sync_\\.js?");
 
 /***/ }),
 
