@@ -148,7 +148,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/**\r\n * 工会相关\r\n */
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/**\n * 全局公用API\n */\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  // 覆盖列表\n  coverList: `${\"http://tp.tuuz.ltd:1180\"}${\"/v1\"}/lecture/index/cover_list`,\n  // 讲座模块-获取列表(活动列表)\n  listLecture: `${\"http://tp.tuuz.ltd:1180\"}${\"/v1\"}/lecture/info/list`\n});\n\n//# sourceURL=webpack://home_research_h5/./src/api/common.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/**\n * 全局公用API\n */\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  // 覆盖列表\n  coverList: `${\"http://tp.tuuz.ltd:1180\"}${\"/v1\"}/lecture/index/cover_list`,\n  // 讲座模块-获取列表(活动列表)\n  listLecture: `${\"http://tp.tuuz.ltd:1180\"}${\"/v1\"}/lecture/info/list`,\n  // 讲座模块-获取搜索列表(活动列表)\n  lectureInfoSearch: `${\"http://tp.tuuz.ltd:1180\"}${\"/v1\"}/lecture/info/search`\n});\n\n//# sourceURL=webpack://home_research_h5/./src/api/common.js?");
 
 /***/ }),
 
