@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhome_research_screen"]=self["webpackChunkhome_research_screen"]||[]).push([[196],{8196:function(e,t,r){r.r(t),r.d(t,{default:function(){return i}});var n=function(){var e=this,t=e.$createElement,r=e._self._c||t;return r("div",{staticClass:"title-card-container flex-center"},[r("p",[e._v(e._s(e.title))])])},s=[],c={props:{title:{type:String,default:"标题"}}},l=c,a=r(1001),u=(0,a.Z)(l,n,s,!1,null,"00bb2082",null),i=u.exports}}]);
+//# sourceMappingURL=196.920211cb.js.map
